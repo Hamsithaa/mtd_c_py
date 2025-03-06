@@ -5,7 +5,7 @@ DAY1 THURSDAY 06-03-2025
 STEPS TO INSTALL GITHUB 
 1. Create new repository 
 2. Give repository name 
-3. Check readme check  box
+3. Check readme check box
 4. Create repository
 
 IMPORTANT GIT COMMANDS
