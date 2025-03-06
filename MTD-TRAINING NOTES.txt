@@ -1,0 +1,22 @@
+MTD COMPETITIVE PROGRAMMING TRAINING
+
+DAY1 THURSDAY 06-03-2025
+
+STEPS TO INSTALL GITHUB 
+1. Create new repository 
+2. Give repository name 
+3. Check readme check  box
+4. Create repository
+
+IMPORTANT GIT COMMANDS
+
+1. git status .. to know current status
+2. git clone https://github.com/.... to dwnld other's repo
+3. git pull origin main //command to download the updated repo 
+from the server to the local machine(inside that dwnlded repo file)
+
+TO MAKE OUR COMPUTER RECOGNISE OUR GIT ACC WE MUST RUN THESE TWO CONFIG COMMANDS
+
+$ git config --global user.name "hamsithaa"
+$ git config --global user.email "hamsithaa08@gmail.com"
+
