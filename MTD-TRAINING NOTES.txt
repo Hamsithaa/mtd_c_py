@@ -64,3 +64,4 @@ e.Code
 --------------------------------
 Hemachandra number
 --------------------------------
+stack pointer and frame pointer=0i.e null --> program ends
