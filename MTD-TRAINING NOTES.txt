@@ -53,3 +53,14 @@ Reabability
 ------------------------------------
 Logical operators: & &&(short circuited and ) | ||(short circuited or) !
 I/p and o/p bool
+------------------------------------
+5 steps to solve a problem
+
+a.Understand,recognise
+b.Find solution with all possible ways
+c.Algorithm(each step must be atomic(srp),simple and finite)
+d.Pseudocode
+e.Code
+--------------------------------
+Hemachandra number
+--------------------------------
