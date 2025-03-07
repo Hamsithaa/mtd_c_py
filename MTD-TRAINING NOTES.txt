@@ -19,4 +19,37 @@ TO MAKE OUR COMPUTER RECOGNISE OUR GIT ACC WE MUST RUN THESE TWO CONFIG COMMANDS
 
 $ git config --global user.name "hamsithaa"
 $ git config --global user.email "hamsithaa08@gmail.com"
+--------------------------------------------------------------------------------------------
 
+DAY2 FRIDAY 07-03-2025
+
+
+crud
+Dynamic memory-a
+G-c stack based env
+Dan rit
+SRP
+
+OOP
+FUNCTIONAL PROGRAMMING= PROCE+OOP
+MODERN C++ 11 14 ..
+
+
+Arithmetic operators: + - * / % (binary operartors | input& ouputs are numbers)
+in-fix notation= a+b format
+pre-fix & post-fix
+to perform any AO, DT of both operands must be same 
+
+Left to right associtivity w.r.t reading the values/expressions
+For the calc to happen, the user/programmer given infix expression must be converted to postfix
+The operators have different hierarchy(Precedence)
+====================================
+fflush(stdin);
+
+Relational operators: > < == != >= <=
+I/p numbers   o/p true or false
+Infix and left to right associtivity
+Reabability
+------------------------------------
+Logical operators: & &&(short circuited and ) | ||(short circuited or) !
+I/p and o/p bool
