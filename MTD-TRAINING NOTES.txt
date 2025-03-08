@@ -82,3 +82,7 @@ make file
 Pointers
 Pointer arithmetic
 logical addresses
+WILD pointer- an uninitialised pointer, possibly holding a junk address
+
+NULL pointer
+
