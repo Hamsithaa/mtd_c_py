@@ -64,4 +64,21 @@ e.Code
 --------------------------------
 Hemachandra number
 --------------------------------
-stack pointer and frame pointer=0i.e null --> program ends
+stack pointer and frame pointer=0, i.e null --> program ends
+--------------------------------------------------------------------------------------------------------------------------
+DAY3 SATURDAY 08-03-2025
+
+Modularity  | Procedural
+
+Relative path | Absolute path
+
+make file
+
+-E  stops after pre-processing
+-c Stops after compilation, gives object file('.o' extension)
+-S creates assembly code
+-o 
+-------------------------------
+Pointers
+Pointer arithmetic
+logical addresses
