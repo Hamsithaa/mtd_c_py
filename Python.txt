@@ -8,4 +8,16 @@ how to use vpn and proxy ip address(YouTube)
 
 
 in python there is no explicit type-casting
+-----------------------------------------
+ARITHMATIC OPERATORS IN PYTHON(+ - * / // ** %)
 
+Range function
+range()
+
+range(10)  [0,10)
+range(2,10)  
+range(1,10,3)
+range(10,-5,-2)
+
+find(it returns -1 when the sub-string is not found)
+index(it raises the valueError when the substring is not found and the next lines if present they wont get executed)
