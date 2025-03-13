@@ -21,3 +21,8 @@ range(10,-5,-2)
 
 find(it returns -1 when the sub-string is not found)
 index(it raises the valueError when the substring is not found and the next lines if present they wont get executed)
+
+Error handling
+Generic and specialized except block
+
+Multi-threaded application
