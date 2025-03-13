@@ -1,0 +1,11 @@
+DAY4 PYTHON 13-03-25
+
+File handling 
+methods(.upper,.capitalize) & function(len(),sorted())
+
+uni-code charecters
+how to use vpn and proxy ip address(YouTube)
+
+
+in python there is no explicit type-casting
+

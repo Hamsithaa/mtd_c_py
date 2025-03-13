@@ -85,4 +85,8 @@ logical addresses
 WILD pointer- an uninitialised pointer, possibly holding a junk address
 
 NULL pointer
-
+--------------------------------
+Stack overflow issue // exit condition or base condition
+prologue
+Function call stack
+--------------------------------------------------------------------------------------------------------------------------------------------------
