@@ -26,3 +26,93 @@ Error handling
 Generic and specialized except block
 
 Multi-threaded application
+----------------------------------------------------------------------------------------
+DAY5 14-03-25 FRIDAY
+
+Data structures:
+
+  Name           Ordered                Mutable              Definition
+  List           Yes                    Yes              its a DS in which elements are stored consecutively
+  Tuple          Yes                    No immutable     it is read only list
+  Set            No                     Yes              DS with unique elements
+  Dictionary     No                     Yes              Key value pairs
+
+Default arguments 
+Map function
+Call by reference
+List comprehension
+Command line arguments
+
+sun-JAVA
+1z0811
+
+pythoninstitute.org
+linuxfoundation.org
+
+NPTEL courses
+CDAC courses
+---------------------
+CRUD operations 
+
+
+stack-->last in first out
+queue-->first in first out/last in last out
+
+mutator- setter
+accessor- read only function
+
+
+STEPS TO DOWNLOAD MYSQL:
+G search: download MySQL
+Link: https://www.mysql.com/downloads/
+Scroll Down & CLick: MySQL Community (GPL) Downloads
+Scroll Down & Click: MySQL Installer for Windows
+Click on Download Button with 350+ MB sized
+Click: No thanks start my download
+Now the .msi file will be downloaded
+Cut and paste it 
+
+Installation Steps:
+1. Choosing setup type: Change to Full, Click Next
+2. Check Requirements: Click Execute
+3. Microsoft V C++ T&C: select check box: I agree and click Install
+4. Installation: Click execute
+5. 
+
+QUERIES:
+select database();
+// This query lists the current DB we are in.
+
+show databases;
+// This query lists all the existing DB names
+
+create database hamsitha_db;
+// This query creates a new DB with the given name
+
+use hamsitha_db;
+// This query switches into the given DB
+
+select database() as current_db
+// This lists the current DB we are in and it given the given heading (alias)
+
+Entity name: person (Model)
+id
+name
+gender
+location
+
+create table persons(id int primary key auto_increment, name varchar(40) not null, gender varchar(1), location varchar(30));
+
+byte
+short
+int
+long
+
+tinyint
+smallint
+int
+bigint
+
+desc persons;
+// This query gives us the information about the table (meta data)
+
