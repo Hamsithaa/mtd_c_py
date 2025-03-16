@@ -1,8 +1,7 @@
 import requests
 
 api_key = "8a456197b3805bed09806fcf5126e085" #'your_api_key'
-# City for which you want the weather
-city = 'bishkek' #'London'
+city =input('Enter the city name for which you want to know about the weather: ')
 
 # API endpoint
 url = f'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric'

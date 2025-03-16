@@ -147,3 +147,27 @@ select count(*) as Count_of_bengaluru_persons from persons where location='benga
 
 select count(*) as count_of_gender_null from persons where gender is null;
 
+-m pdb  (python debugger)
+ to run the program inside a python debugger
+ 
+Ram jet palani
+subramanya swami
+
+
+
+
+n=int(input('Enter the number of shoe pairs on sale(n): '))
+p=int(input('Enter the number of shoe pair which have negative price(p)= '))
+price=list(input('Enter the price of shoe pairs'))
+
+sum=0;
+x=price.sort()
+for i in x:
+    sum=sum+i;
+
+print(abs(sum))
+
+
+
+
+
